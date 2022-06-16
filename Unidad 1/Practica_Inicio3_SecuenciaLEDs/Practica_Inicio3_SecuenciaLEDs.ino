@@ -1,6 +1,7 @@
 /*
 Descripción:
 En esta práctica se controlará la secuencia de encendido de cada LED
+AUTOR: RETBOT 
 */
 
 //** Definiciones **// 
@@ -31,3 +32,5 @@ delay(1000); //esperamos 1 segundo
 digitalWrite(rojo,LOW); //apagamos el led rojo 
 delay(250); //esperamos 0,250 segundos 
 }
+
+// AUTOR: RETBOT 
