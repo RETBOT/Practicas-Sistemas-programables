@@ -2,6 +2,7 @@
 Descripción:
 En esta práctica conectará el LED a un puerto digital del Arduino. 
 El led se encenderá un segundo y se apagará un segundo repetidamente.
+AUTOR: RETBOT 
 */
 
 //** Definiciones **// 
@@ -19,3 +20,8 @@ void loop(){//bucle a repetir continuamente
   digitalWrite(ledRojo, LOW); // apaga el led  
   delay(1000); // espera por 1 segundo
 }
+
+
+
+
+// AUTOR: RETBOT 
