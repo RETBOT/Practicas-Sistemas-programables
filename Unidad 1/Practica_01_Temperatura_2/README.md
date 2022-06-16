@@ -7,4 +7,4 @@
 ## 3. El otro pin del LED lo conectamos uno al 3 y 5 que son los que tienen funcionalidad PWM.
 ## 4. Conectamos los cables de tierra y 5V de la Arduino a la protoboard.
 ## 5. Cargamos el código.
-![Practica I1 Temperatura 2]()
+![Practica I1 Temperatura 2](https://github.com/RETBOT/Practicas-Sistemas-programables/blob/master/Unidad%201/Practica_01_Temperatura_2/Practica_01_Temperatura_2.png)

@@ -1,6 +1,6 @@
 /*
 Descripción:
-Distinguir Distinguir el movimiento utilizando el sensor PIR
+Distinguir el movimiento de una persona utilizando el sensor PIR
 AUTOR: RETBOT 
 */
 
