@@ -10,4 +10,4 @@
 ## El ESP32 actúa como un puerto serie a través del cual puede enviar y recibir datos.
 ## Entonces, al usar un terminal en serie o una aplicación personalizada de Bluetooth en su computadora o teléfono, puede controlar y monitorear su proyecto. 
 
-![Practicas 15 Bluetooth]()
+![Practicas 15 Bluetooth](https://github.com/RETBOT/Practicas-Sistemas-programables/blob/master/Unidad%204/Practica_15_Bluetooth/Practica_15_Bluetooth.png)
