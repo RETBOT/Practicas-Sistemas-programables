@@ -3,4 +3,4 @@
 ## Los baudios también cambian dependiendo de la tarjeta de Arduino que tengamos (9600/115200).
 ## El resultado de la conexión : OK que lo enviará el módulo de wifi.
 
-![Practicas 18 WIFI]()
+![Practicas 18 WIFI](https://github.com/RETBOT/Practicas-Sistemas-programables/blob/master/Unidad%205/Practica_18_Wifi/Practica_18_Wifi.png)
