@@ -3,4 +3,4 @@
 ![L293D]()
 ## Durante la sesión se explicó el chip L293D tanto su funcionamiento como sus conexiones. Además se explicó cómo conectarlo al motor DC. En seguida se muestran las imágenes que solicitaron de la práctica:
 
-![Practica 00 Motor DC]()
+![Practica 00 Motor DC](https://github.com/RETBOT/Practicas-Sistemas-programables/blob/master/Unidad%202/Practica_00_Motor_DC/Practica_00_Motor_DC.png)
