@@ -10,4 +10,4 @@
 
 
 
-![Practicas 19 WIFI]()
+![Practicas 19 WIFI](https://github.com/RETBOT/Practicas-Sistemas-programables/blob/master/Unidad%205/Practica_19_Wifi/Practica_19_Wifi.png)
